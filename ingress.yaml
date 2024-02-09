@@ -7,4 +7,4 @@ metadata:
 spec:
   backend:
     serviceName: todo-deploy
-    servicePort: 8080
+    servicePort: 8083
